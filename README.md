@@ -9,11 +9,7 @@ yum -y install wget
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
-备用脚本：
 
-yum -y install wget
-
-wget -N --no-check-certificate https://softs.fun/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
 
 # 快捷管理命令bash ssr.sh启动ssr管理
@@ -60,7 +56,7 @@ chmod +x bbr.sh
 
 
 
-#【SSR客户端下载】
+# 【SSR客户端下载】
 
 第一次电脑系统使用SSR/SS客户端时，如果提示你需要安装NET Framework 4.0，网上搜一下这个东西，安装一下即可。NET Framework 4.0是SSR/SS的运行库，没有这个SSR/SS客户端无法正常运行。有的电脑系统可能会自带NET Framework 4.0。
 
