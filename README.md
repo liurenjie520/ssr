@@ -1,8 +1,12 @@
 # ssr
 
 
- http://www.vultr.com
+# 购买国外vps
+推荐 http://www.vultr.com
  
+# 安装 CentOS6
+
+# 执行脚本
  CentOS6/Debian6/Ubuntu14 ShadowsocksR一键部署管理脚本：
  
 yum -y install wget
