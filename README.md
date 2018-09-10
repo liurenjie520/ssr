@@ -83,7 +83,7 @@ Windows SSR客户端 https://github.com/shadowsocksr-backup/shadowsocksr-csharp/
 
 MAC SSR客户端 https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases
 
-安卓SSR客户端 https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk
+安卓SSR客户端 https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
 
 苹果手机SSR客户端：Potatso Lite、Potatso、shadowrocket都可以作为SSR客户端，但这些软件目前已经在国内的app商店下架，
 可以用美区的appid账号来下载。但是，如果你配置的SSR账号兼容SS客户端，或者协议选择origin且混淆选择plain，
