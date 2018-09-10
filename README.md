@@ -4,6 +4,14 @@
  http://www.vultr.com
  
  CentOS6/Debian6/Ubuntu14 ShadowsocksR一键部署管理脚本：
+ 
+yum -y install wget
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/liurenjie520/ssr/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+ 
+ 
+备用脚本： 
+ 
 
 yum -y install wget
 
@@ -36,6 +44,17 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 登录成功后，在命令栏里粘贴以下代码：
 
 【谷歌BBR加速教程】
+
+yum -y install wget
+
+wget --no-check-certificate https://raw.githubusercontent.com/liurenjie520/ssr/master/bbr.sh
+
+chmod +x bbr.sh
+
+./bbr.sh
+
+
+备用脚本：
 
 yum -y install wget
 
